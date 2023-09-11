@@ -1,4 +1,4 @@
-public class Additional_Task {
+public class Main {
     
     public static boolean isLeapYear(int year) 
     {
